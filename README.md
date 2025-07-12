@@ -72,6 +72,9 @@ Build **RazorPay_clone** from the source and install dependencies:
 3. **Install the dependencies:**
    npm install
 
-4. **Usage**
+### Usage
    Run the project with: npm start
+
+### Testing
+  npm test
 
